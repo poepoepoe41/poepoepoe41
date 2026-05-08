@@ -56,7 +56,7 @@ I'm a passionate developer dedicated to building innovative solutions and contri
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-poepoepoe41-181717?style=for-the-badge&logo=github)](https://github.com/poepoepoe41)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poepoepoe41.email@example.com)
+[![Email](https://img.shields.io/badge/Email-poeeiphyu.m93@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poepoepoe41@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poe-ei-phyu-385425132)
 ---
 
